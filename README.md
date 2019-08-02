@@ -14,7 +14,7 @@ https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe
 
 **Download Tutorial Files From:**
 
-`git clone https://github.com/alperenssahin/WordCountTutorial`
+`git clone https://github.com/alperenssahin/WordCountTutorial <HOST_WORKNG_DIRECTORY>`
 
 **Start docker-hadoop image:**
 
