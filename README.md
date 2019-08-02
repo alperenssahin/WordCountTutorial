@@ -12,6 +12,9 @@ https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe
 `docker pull sequenceiq/hadoop-docker:2.7.0
 `
 
+**Download Tutorial Files From:**
+
+`git clone https://github.com/alperenssahin/WordCountTutorial`
 
 **Start docker-hadoop image:**
 
